@@ -21,7 +21,7 @@ This is a full-stack blog application built using Flask for the backend, with HT
 
 ## Setup Instructions
 
-1. Clone the repository `git clone https://github.com/SantoshNtrjn/blog-app.git`.
+1. Clone the repository `git clone https://github.com/SantoshNtrjn/Blog-App.git`.
 2. Install the required Python packages using `pip install -r requirements.txt`.
 3. Run `python create_db.py` to set up the database.
 4. Start the application using `python app.py`.
